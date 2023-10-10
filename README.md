@@ -1,4 +1,4 @@
-# MaterMind Game
+# MasterMind Game
 
 his code is for a simple game called "Mastermind" where there are two players. One player is a computer (Player 1), and the other player is a human (Player 2).
 
